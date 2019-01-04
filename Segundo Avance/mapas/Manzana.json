@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/Manzana.PNG",
+ "imageheight":450,
+ "imagewidth":517,
+ "margin":0,
+ "name":"Manzana",
+ "spacing":0,
+ "tilecount":896,
+ "tiledversion":"1.2.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.2
+}

@@ -1,0 +1,14 @@
+{ "columns":31,
+ "image":"..\/Start.PNG",
+ "imageheight":450,
+ "imagewidth":511,
+ "margin":0,
+ "name":"Start",
+ "spacing":0,
+ "tilecount":868,
+ "tiledversion":"1.2.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.2
+}
